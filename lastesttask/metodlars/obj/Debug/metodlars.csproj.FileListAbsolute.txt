@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\metodlars\bin\Debug\metodlars.exe.config
+C:\Users\HP\source\repos\metodlars\bin\Debug\metodlars.exe
+C:\Users\HP\source\repos\metodlars\bin\Debug\metodlars.pdb
+C:\Users\HP\source\repos\metodlars\obj\Debug\metodlars.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\metodlars\obj\Debug\metodlars.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\metodlars\obj\Debug\metodlars.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\metodlars\obj\Debug\metodlars.exe
+C:\Users\HP\source\repos\metodlars\obj\Debug\metodlars.pdb
+C:\Users\HP\source\repos\metodlars\bin\Debug\Castle.Core.dll
+C:\Users\HP\source\repos\metodlars\bin\Debug\FakeItEasy.dll
+C:\Users\HP\source\repos\metodlars\bin\Debug\Castle.Core.xml
+C:\Users\HP\source\repos\metodlars\bin\Debug\FakeItEasy.xml
+C:\Users\HP\source\repos\metodlars\obj\Debug\metodlars.csproj.CopyComplete
